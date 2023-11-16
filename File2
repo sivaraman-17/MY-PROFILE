@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+           
+            body{
+            background-image: url('https://rare-gallery.com/uploads/posts/1251180-nova-light-5.jpg');
+            background-size: cover ;
+           }
+            .d{
+                background-color: grey;
+                height: auto;
+                width: 800px;
+                display: flex;
+                margin-top: 50px;
+            }
+            .d2{
+                margin-left: 300px;
+            }
+            .d3{
+                background-color: black;
+                height: 40px;
+                width: 800px;
+                
+                padding-top: 20px;
+            }
+            a{
+                text-decoration: none;
+                color: whitesmoke;
+                padding: 7px;
+            }
+            a:hover{
+                background-color:thistle
+            }
+        </style>
+    </head>
+    <body>
+        <center>
+            
+           <div class="d">
+            <div class="d1">
+            <h2>Personal details</h2>
+            <p>Date of Birth--</p>
+            <p>District--</p>
+            <p>State--</p>
+            <p>Address--</p>
+            <p>Nativity--</p>
+            <p>Blood Group--</p>
+        </div>
+        <div class="d2">
+            <h2>Academic details</h2>
+            <p>SchoolName--</p>
+            <p>12<sup>th</sup> mark--</p>
+            <p>12<sup>th</sup> %--</p>
+            <p>College Name--</p>
+            <p>Course--</p>
+        </div>
+        
+        </div>
+        <div class="d3">
+            <a href="file:///C:/Users/Sivaraman%20.%20S/Desktop/HTML%20PROGRAM/CLASSWORK/Day%204/profile_creation.html">Home</a>
+            <a href="C:\Users\Sivaraman . S\Desktop\HTML PROGRAM\CLASSWORK\Day 4\profile_creation3.html">Contact</a>
+        </div>
+    </center>
+ 
+    </body>
+</html>
