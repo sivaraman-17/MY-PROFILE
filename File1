@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            PROFILE
+        </title>
+        <style>
+             .header{
+                color: rgba(0, 0, 0, 0.927);
+                font-size: xx-large;
+                margin-top: 100px;
+
+            }
+           body{
+            background-image: url('https://rare-gallery.com/uploads/posts/1251180-nova-light-5.jpg');
+            background-size: cover;
+           }
+           
+            .k{
+                background-color: grey;
+                height: 200px;
+                width: 600px;
+                margin-top: 70px;
+            }
+            .k{
+                display: flex;
+            }
+            
+            img{
+                height: 100px;
+                width: 100px;
+                border-radius: 100px;
+                margin-top: 20px;
+                margin-left: 20px;
+
+            }
+            .c{
+                margin-left: 50px;
+                color: black;
+            }
+            nav{
+                background-color:black;
+                height: 40px;
+                 text-align: center;
+                 padding-top: 25px;
+                 
+                width: 600px;
+                }
+            a{
+                text-decoration: none;
+                font-size: larger;
+                color: white;
+                padding: 10px;
+             }
+            a:hover {
+                 background-color:thistle
+            }
+        </style>
+    </head>
+    <body>
+       
+        <center>
+            <H1 class="header">MY PROFILE</H1>
+            <div class="k">
+                <img src="C:\Users\Sivaraman . S\OneDrive\pro.jpg">
+                <div class="c">
+                    <p>NAME--</p><br>
+                    <p>AGE--</p><br>
+                    <P>COLLEGE--</P>
+                </div>
+            </div>
+            <nav>
+               
+                <a href="file:///C:/Users/Sivaraman%20.%20S/Desktop/HTML%20PROGRAM/CLASSWORK/Day%204/profile_creation2.html" target="blank">About Me</a>
+                <a href="C:\Users\Sivaraman . S\Desktop\HTML PROGRAM\CLASSWORK\Day 4\profile_creation3.html" >Contact</a>
+            </nav>
+     
+    
+        </center>
+    </body>
+</html>
