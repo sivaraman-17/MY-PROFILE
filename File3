@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body{
+            background-image: url('https://rare-gallery.com/uploads/posts/1251180-nova-light-5.jpg');
+            background-size: cover ;
+           }
+            .f1{
+                background-color: grey;
+                height: 150px;
+                width: 600px;
+                margin-top: 200px;
+               
+            }
+            .f{
+                padding: 5px;
+            }
+            
+            .f2{
+                background-color: black;
+                height: 40px;
+                width: 600px;
+                 padding-top: 20px;
+            }
+            a{
+                text-decoration: none;
+                color: white;
+            }
+            a:hover{
+                background-color:thistle
+            }
+        </style>
+    </head>
+    <body>
+        <center>
+            <div class="f1">
+                <div class="f">
+                <p>Mobile Number : 8667312449</p>
+                <p>Email : imsivaraman1012</p>
+                <P>Instagram : <a href="https://instagram.com/___s.i.v.a_?igshid=MTBoNnl4M2hoanI0">Click Here</a></P>
+                <P>Facebook : <a href="https://www.facebook.com/profile.php?id=100056789451954&mibextid=ZbWKwL">Click Here</a></P>
+            </div>
+            </div>
+            <div class="f2">
+                <a href="file:///C:/Users/Sivaraman%20.%20S/Desktop/HTML%20PROGRAM/CLASSWORK/Day%204/profile_creation.html">Home</a>
+            </div>
+        </center>
+    </body>
+</html>
